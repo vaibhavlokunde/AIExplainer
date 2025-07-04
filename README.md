@@ -1,6 +1,3 @@
-Sure! Below is a clean, professional, and beginner-friendly `README.md` file for your **AI Code Explainer using Generative AI (Gemini API)** project. It includes sections like installation, usage, features, and future improvements.
-
----
 
 ````markdown
 # 🧠 AI Code Explainer using Generative AI (Gemini API)
@@ -16,13 +13,6 @@ This project is a simple and interactive web application that takes a code snipp
 - ⚡ Fast and responsive UI built with React
 - 🔁 Handles API loading and error states
 - 📋 Copy explanation with one click
-
----
-
-## 📸 Demo
-
-![Demo Screenshot](demo-screenshot.png)  
-*(Include a screenshot of your app here after hosting or running it locally)*
 
 ---
 
